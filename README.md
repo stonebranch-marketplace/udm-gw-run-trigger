@@ -1,5 +1,5 @@
 # udm-gw-run-trigger
-Universal Task to automate File Transfer activities in UDM Gateway.
+Universal Task to automate a UDM Gateway Trigger Run.
 
 # Disclaimer
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
